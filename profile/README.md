@@ -4,8 +4,6 @@
 
 We develop essential cross-runtime libraries for Deno, Bun, and Node.js, extending the foundation of @std on JSR.io.  Our libraries are designed for seamless cross-platform development, offering intuitive APIs and clear documentation.
 
-**A selection of our packages**
-
 * **@cross/env:** Simple and consistent environment variable management across runtimes.
 * **@cross/runtime:** Easily detect the current JavaScript runtime (Deno, Bun, Node.js, or browser) and its version.
 * **@cross/test:** A truly cross-runtime minimal testing framework in collaboration with @std/assert.
