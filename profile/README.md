@@ -1,12 +1,8 @@
 **@cross - Cross-Runtime JavaScript Libraries**
 
-*Filling the gaps of @std/ on jsr.io*
+*Filling the gaps of @std/ on jsr.io* - [https://jsr.io/@cross](https://jsr.io/@cross)
 
-[https://jsr.io/@cross](https://jsr.io/@cross)  |  Follow us on GitHub: [https://github.com/cross-org](https://github.com/cross-org)
-
-**About**
-
-@cross develops essential cross-runtime libraries for Deno, Bun, and Node.js, extending the foundation of @std on JSR.io.  Our libraries are designed for seamless cross-platform development, offering intuitive APIs and clear documentation.
+We develop essential cross-runtime libraries for Deno, Bun, and Node.js, extending the foundation of @std on JSR.io.  Our libraries are designed for seamless cross-platform development, offering intuitive APIs and clear documentation.
 
 **A selection of our packages**
 
