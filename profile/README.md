@@ -16,18 +16,18 @@ We develop essential cross-runtime libraries for Deno, Bun, and Node.js, extendi
 **@cross/env**
 
 ```typescript
-import { get } from '@cross/env';
+import { getEnv } from "@cross/env";
 
-const port = get('PORT') || '3000';
+const port = getEnv("PORT") || "3000";
 console.log(`Server listening on port ${port}`);
 ```
 
 **@cross/runtime**
 
 ```typescript
-import { CurrentRuntime } from '@cross/runtime';
+import { CurrentRuntime } from "@cross/runtime";
 
-if (CurrentRuntime === 'deno') {
+if (CurrentRuntime === "deno") {
   console.log("You're running Deno!");
 }
 ```
@@ -35,9 +35,9 @@ if (CurrentRuntime === 'deno') {
 **@cross/utils**
 
 ```typescript
-import { args, Colors } from '@cross/utils';
+import { args, Colors } from "@cross/utils";
 
-console.log(Colors.bgGreen(Colors.bold('Success!')))
+console.log(Colors.bgGreen(Colors.bold("Success!")))
 
 const commandLineArgs = args();
 console.log(commandLineArgs);
