@@ -8,7 +8,7 @@ We develop essential cross-runtime libraries for Deno, Bun, and Node.js, extendi
 * **@cross/runtime:** Easily detect the current JavaScript runtime (Deno, Bun, Node.js, or browser) and its version.
 * **@cross/test:** A truly cross-runtime minimal testing framework in collaboration with @std/assert.
 * **@cross/deepmerge** Deeply merge objects with flexibility and customizability across JavaScript environments.
-* **@cross/base64:** Efficient base64/base64url encoding, decoding, and validation for multiple runtimes.
+* **@cross/base64:** Efficient cross-runtime base64/base64url validation.
 * **@cross/utils:** A toolbox of helpful cross-runtime utility functions.
 * **@cross/log:** Cross-runtime decorated file/console logger.
 * **@cross/service:** Cross-runtime service installer library for Systemd, Upstart, Sysvinit usable in Node, Deno and Bun.
