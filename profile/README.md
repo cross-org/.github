@@ -10,6 +10,8 @@ We develop essential cross-runtime libraries for Deno, Bun, and Node.js, extendi
 * **@cross/deepmerge** Deeply merge objects with flexibility and customizability across JavaScript environments.
 * **@cross/base64:** Efficient base64/base64url encoding, decoding, and validation for multiple runtimes.
 * **@cross/utils:** A toolbox of helpful cross-runtime utility functions.
+* **@cross/log:** Cross-runtime decorated file/console logger.
+* **@cross/service:** Cross-runtime service installer library for Systemd, Upstart, Sysvinit usable in Node, Deno and Bun.
 
 **Quick Examples**
 
