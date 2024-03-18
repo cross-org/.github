@@ -4,14 +4,14 @@
 
 We develop essential cross-runtime libraries for Deno, Bun, and Node.js, extending the foundation of @std on JSR.io.  Our libraries are designed for seamless cross-platform development, offering intuitive APIs and clear documentation.
 
-* **@cross/env:** Simple and consistent environment variable management across runtimes.
-* **@cross/runtime:** Easily detect the current JavaScript runtime (Deno, Bun, Node.js, or browser) and its version.
-* **@cross/test:** A truly cross-runtime minimal testing framework in collaboration with @std/assert.
-* **@cross/deepmerge** Deeply merge objects with flexibility and customizability across JavaScript environments.
-* **@cross/base64:** Efficient cross-runtime base64/base64url validation.
-* **@cross/utils:** A toolbox of helpful cross-runtime utility functions.
-* **@cross/log:** Cross-runtime decorated file/console logger.
-* **@cross/service:** Cross-runtime service installer library for Systemd, Upstart, Sysvinit usable in Node, Deno and Bun.
+* **[@cross/utils](https://jsr.io/@cross/utils):** A toolbox of helpful cross-runtime utility functions like `exit()`, `spawn()`, `args`, `ÀrgumentParser` and more.
+* **[@cross/env](https://jsr.io/@cross/env):** Simple and consistent environment variable management across runtimes.
+* **[@cross/runtime](https://jsr.io/@cross/runtime):** Easily detect the current JavaScript runtime (Deno, Bun, Node.js, or browser), along with version, OS and more.
+* **[@cross/test](https://jsr.io/@cross/test):** Write cross-runtime tests utilizing the build in test runners of Deno, Node and Bun. Works great with @std/assert and Sinon.
+* **[@cross/deepmerge](https://jsr.io/@cross/deepmerge)** Deeply merge objects with flexibility and customizability across JavaScript environments.
+* **[@cross/base64](https://jsr.io/@cross/base64)):** Efficient cross-runtime base64/base64url validation.
+* **[@cross/log](https://jsr.io/@cross/log):** Flexible cross-runtime logging with customizable console styling, file output, log levels, and pluggable transports.
+* **[@cross/service](https://jsr.io/@cross/env):** Cross-runtime service installer library for Systemd, Upstart, Sysvinit usable in Node, Deno and Bun.
 
 **Quick Examples**
 
