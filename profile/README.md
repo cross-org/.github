@@ -14,6 +14,10 @@ We develop essential cross-runtime libraries for Deno, Bun, and Node.js, extendi
 * **[@cross/service](https://github.com/cross-org/service):** Cross-runtime service installer library for Systemd, Upstart, Sysvinit usable in Node, Deno and Bun.
 * **[@cross/dir](https://github.com/cross-org/dir):** Cross-platform mechanism for retrieving the paths to standard user directories in Deno, Bun and Node.js
 
+**We have also...**
+
+... created a set of common reusable and configurable GitHub workflows to streamline cross-runtime compatibility testing with Deno, Node, and Bun. Find them at [github.com/cross-org/workflows](https://github.com/cross-org/workflows).
+
 **Quick Examples**
 
 **@cross/env**
