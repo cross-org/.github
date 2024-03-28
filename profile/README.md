@@ -4,6 +4,7 @@
 
 We develop essential cross-runtime libraries for Deno, Bun, and Node.js, extending the foundation of @std on JSR.io.  Our libraries are designed for seamless cross-platform development, offering intuitive APIs and clear documentation.
 
+* **[@cross/fs](https://github.com/cross-org/fs):** Complete cross-runtime utility library offering functions for file system operations, such as `diskusage()`, `size()`, `readFile()`, `stat()`, `mktempdir()`.
 * **[@cross/utils](https://github.com/cross-org/utils):** A toolbox of helpful cross-runtime utility functions like `exit()`, `spawn()`, `args`, `ArgumentParser` and more.
 * **[@cross/env](https://github.com/cross-org/env):** Simple and consistent environment variable management across runtimes.
 * **[@cross/runtime](https://github.com/cross-org/runtime):** Easily detect the current JavaScript runtime (Deno, Bun, Node.js, or browser), along with version, OS and more.
