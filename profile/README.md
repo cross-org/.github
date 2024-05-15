@@ -15,6 +15,7 @@ We develop essential cross-runtime libraries for Deno, Bun, and Node.js, extendi
 * **[@cross/service](https://github.com/cross-org/service):** Cross-runtime service installer library for Systemd, Upstart, Sysvinit usable in Node, Deno and Bun.
 * **[@cross/dir](https://github.com/cross-org/dir):** Cross-platform mechanism for retrieving the paths to standard user directories in Deno, Bun and Node.js
 * **[@cross/jwt](https://github.com/cross-org/jwt):** A versatile JSON Web Token (JWT) library.
+* **[@cross/kv](https://github.com/cross-org/kv):** A fast, file based Key/Value Database with in-memory index for Node, Deno and Bun.
   
 **We have also...**
 
