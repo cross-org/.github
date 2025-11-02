@@ -16,6 +16,7 @@ We develop essential cross-runtime libraries for Deno, Bun, and Node.js, extendi
 * **[@cross/dir](https://github.com/cross-org/dir):** Cross-platform mechanism for retrieving the paths to standard user directories in Deno, Bun and Node.js
 * **[@cross/jwt](https://github.com/cross-org/jwt):** A versatile JSON Web Token (JWT) library.
 * **[@cross/kv](https://github.com/cross-org/kv):** A fast, file based Key/Value Database with in-memory index for Node, Deno and Bun.
+* **[@cross/workers](https://github.com/cross-org/workers):** Cross-runtime worker pool with TypeScript support
   
 **We have also...**
 
